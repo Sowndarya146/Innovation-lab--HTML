@@ -1,0 +1,11 @@
+
+var name = "Sowndarya";
+let age = 19;
+const isStudent = true;
+
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Is a student?", isStudent);
+
+age = 20;
+console.log("Updated Age:", age);
